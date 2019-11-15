@@ -1,4 +1,6 @@
+# IntelliJ:
 .idea/
-.target/
 *.iml
-pom.xml
+
+# Maven:
+target/
